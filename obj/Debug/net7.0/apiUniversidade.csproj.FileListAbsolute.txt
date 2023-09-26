@@ -1,0 +1,119 @@
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\bin\Debug\net7.0\appsettings.json
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\bin\Debug\net7.0\apiUniversidade.exe
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\bin\Debug\net7.0\apiUniversidade.deps.json
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\bin\Debug\net7.0\apiUniversidade.runtimeconfig.json
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\bin\Debug\net7.0\apiUniversidade.dll
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\bin\Debug\net7.0\apiUniversidade.pdb
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\apiUniversidade.csproj.AssemblyReference.cache
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\apiUniversidade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\apiUniversidade.AssemblyInfoInputs.cache
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\apiUniversidade.AssemblyInfo.cs
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\apiUniversidade.csproj.CoreCompileInputs.cache
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\apiUniversidade.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\apiUniversidade.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\staticwebassets\msbuild.apiUniversidade.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\staticwebassets\msbuild.build.apiUniversidade.props
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.apiUniversidade.props
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.apiUniversidade.props
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\scopedcss\bundle\apiUniversidade.styles.css
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\apiUniversidade.csproj.CopyComplete
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\apiUniversidade.dll
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\refint\apiUniversidade.dll
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\apiUniversidade.pdb
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\apiUniversidade.genruntimeconfig.cache
+D:\Users\20201034010026\Desktop\Programação para Internet\apiUniversidade\obj\Debug\net7.0\ref\apiUniversidade.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\apiUniversidade.csproj.AssemblyReference.cache
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\apiUniversidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\apiUniversidade.AssemblyInfoInputs.cache
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\apiUniversidade.AssemblyInfo.cs
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\apiUniversidade.csproj.CoreCompileInputs.cache
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\apiUniversidade.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\apiUniversidade.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\apiUniversidade.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\refint\apiUniversidade.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\apiUniversidade.pdb
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\appsettings.json
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\apiUniversidade.exe
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\apiUniversidade.deps.json
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\apiUniversidade.runtimeconfig.json
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\apiUniversidade.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\apiUniversidade.pdb
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\staticwebassets\msbuild.apiUniversidade.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\staticwebassets\msbuild.build.apiUniversidade.props
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.apiUniversidade.props
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.apiUniversidade.props
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\scopedcss\bundle\apiUniversidade.styles.css
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\apiUniversidade.csproj.CopyComplete
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\apiUniversidade.genruntimeconfig.cache
+C:\Users\Jaquilene\Desktop\apiUniversidade\apiUniversidade\obj\Debug\net7.0\ref\apiUniversidade.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\appsettings.json
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\apiUniversidade.exe
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\apiUniversidade.deps.json
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\apiUniversidade.runtimeconfig.json
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\apiUniversidade.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\apiUniversidade.pdb
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\Humanizer.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\Npgsql.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\bin\Debug\net7.0\System.CodeDom.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\apiUniversidade.csproj.AssemblyReference.cache
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\apiUniversidade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\apiUniversidade.AssemblyInfoInputs.cache
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\apiUniversidade.AssemblyInfo.cs
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\apiUniversidade.csproj.CoreCompileInputs.cache
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\apiUniversidade.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\apiUniversidade.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\staticwebassets\msbuild.apiUniversidade.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\staticwebassets\msbuild.build.apiUniversidade.props
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.apiUniversidade.props
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.apiUniversidade.props
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\scopedcss\bundle\apiUniversidade.styles.css
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\apiUniversidade.csproj.CopyComplete
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\apiUniversidade.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\refint\apiUniversidade.dll
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\apiUniversidade.pdb
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\apiUniversidade.genruntimeconfig.cache
+D:\Users\20201034010026\Desktop\apiUniversidade\obj\Debug\net7.0\ref\apiUniversidade.dll
