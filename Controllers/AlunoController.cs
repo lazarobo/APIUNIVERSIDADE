@@ -26,7 +26,7 @@ namespace apiUniversidade.Controllers
 
             Aluno a2 = new Aluno();
             a2.ID = 2;
-            a2.Nome = "Maria";
+            a2.Nome = "Lázaro";
             a2.CPF = "222-222";
             a2.dataNascimento = DateTime.Now;
 
