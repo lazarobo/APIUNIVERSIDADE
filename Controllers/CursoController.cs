@@ -40,5 +40,16 @@ namespace apiUniversidade.Controllers
 
             return new CreatedAtRouteResult ("GetCurso", new{ id = curso.ID}, curso);
         }
+
+        [HttpGet ("{id:int}", Name ="GetCurso")]
+        public ActionResult<Curso> Get(int id)
+        {
+            var curso = _context.Cursos.FirstOrDefault(p => p.ID == id);
+            if(curso is null)
+                return NotFound("Curso não encontado.");
+
+                return curso;
+        }
+
     }
 }
