@@ -1438,32 +1438,24 @@
     ]
   },
   "packageFolders": {
-    "D:\\Users\\20201034010026\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\20191034010037\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\20201034010026\\Desktop\\apiUniversidade\\apiUniversidade.csproj",
+      "projectUniqueName": "C:\\Users\\20191034010037\\APIUNIVERSIDADE\\apiUniversidade.csproj",
       "projectName": "apiUniversidade",
-      "projectPath": "D:\\Users\\20201034010026\\Desktop\\apiUniversidade\\apiUniversidade.csproj",
-      "packagesPath": "D:\\Users\\20201034010026\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\20201034010026\\Desktop\\apiUniversidade\\obj\\",
+      "projectPath": "C:\\Users\\20191034010037\\APIUNIVERSIDADE\\apiUniversidade.csproj",
+      "packagesPath": "C:\\Users\\20191034010037\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\20191034010037\\APIUNIVERSIDADE\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "D:\\Users\\20201034010026\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\20191034010037\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1520,7 +1512,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
