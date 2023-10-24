@@ -50,7 +50,7 @@ namespace apiUniversidade.Controllers
 
                 return curso;
         }
-        [HttpPut("id:int")]
+        [HttpPut("{id:int}")]
         public ActionResult Put(int id, Curso curso){
             if(id != curso.ID)
                 return BadRequest();
