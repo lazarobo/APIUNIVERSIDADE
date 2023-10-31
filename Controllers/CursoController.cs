@@ -61,5 +61,18 @@ namespace apiUniversidade.Controllers
             return Ok(curso);
         }
 
+        [HttpDelete("{id:int}")]
+        public ActionResult Delete (int ID){
+            var curso = _context.Cursos.FirstOrDefault(p => p.ID == ID);
+
+            if(curso is null)
+            return NotFound();
+
+            _context.Cursos.Remove(curso);
+            _context.SaveChanges();
+
+            return Ok(curso);
+        }
+
     }
 }
