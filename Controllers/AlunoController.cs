@@ -26,9 +26,8 @@ namespace apiUniversidade.Controllers
         public ActionResult<IEnumerable<Aluno>> Get()
         {
             var alunos = _context.Alunos.ToList();
-            if(alunos is not null)
+            if(alunos is null)
                 return NotFound();  
-
             return alunos;
         }
 
