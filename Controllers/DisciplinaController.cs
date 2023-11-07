@@ -27,7 +27,7 @@ namespace apiUniversidade.Controllers
         public ActionResult<IEnumerable<Disciplina>> Get()
         {
             var disciplina = _context.Disciplinas.ToList();
-            if(disciplina is not null)
+            if(disciplina is null)
                 return NotFound();  
 
             return disciplina;
