@@ -62,8 +62,8 @@ namespace apiUniversidade.Controllers
         }
 
         [HttpDelete("{id:int}")]
-        public ActionResult Delete (int ID){
-            var curso = _context.Cursos.FirstOrDefault(p => p.ID == ID);
+        public ActionResult Delete (int id){
+            var curso = _context.Cursos.FirstOrDefault(p => p.ID == id);
 
             if(curso is null)
             return NotFound();
@@ -73,6 +73,8 @@ namespace apiUniversidade.Controllers
 
             return Ok(curso);
         }
+
+
 
     }
 }

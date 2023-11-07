@@ -32,12 +32,46 @@ namespace apiUniversidade.Controllers
             return alunos;
         }
 
-       /* [HttpPost]
+       [HttpPost]
         public ActionResult Post (Aluno aluno){
             _context.Alunos.Add(aluno);
             _context.SaveChanges();
 
-            return new CreatedAtActionResult ("GetAluno", new{id = aluno.ID}, aluno);
-        }*/
+            return new CreatedAtRouteResult ("GetAluno", new{id = aluno.ID}, aluno);
+        }
+        [HttpGet ("{id:int}", Name ="GetAluno")]
+        public ActionResult<Aluno> Get(int id)
+        {
+            var aluno = _context.Alunos.FirstOrDefault(p => p.ID == id);
+            if(aluno is null)
+                return NotFound("Aluno não encontado.");
+
+                return aluno;
+        }
+
+        [HttpPut("{id:int}")]
+        public ActionResult Put(int id, Aluno aluno){
+            if(id != aluno.ID)
+                return BadRequest();
+
+            _context.Entry(aluno).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+            _context.SaveChanges();
+
+            return Ok(aluno);
+        }
+
+        [HttpDelete("{id:int}")]
+        public ActionResult Delete (int id){
+            var aluno = _context.Alunos.FirstOrDefault(p => p.ID == id);
+
+            if(aluno is null)
+            return NotFound();
+
+            _context.Alunos.Remove(aluno);
+            _context.SaveChanges();
+
+            return Ok(aluno);
+        }
+        
     }
 }
