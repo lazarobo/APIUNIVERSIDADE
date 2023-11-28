@@ -1,4 +1,5 @@
 using apiUniversidade.Context;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +11,9 @@ builder.Services.AddDbContext<apiUniversidadeContext>(options => options.UseNpgs
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddIdentity<IdentityUser,IdentityRole>()
+    .AddEntityFrameworkStores<apiUniversidadeContext>()
+    .AddDefaultTokenProviders();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
