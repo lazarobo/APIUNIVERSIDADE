@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 using apiUniversidade.Context;
@@ -11,9 +12,11 @@ using apiUniversidade.Context;
 namespace apiUniversidade.Migrations
 {
     [DbContext(typeof(apiUniversidadeContext))]
-    partial class apiUniversidadeContextModelSnapshot : ModelSnapshot
+    [Migration("20231128140849_identity-jwt")]
+    partial class identityjwt
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
