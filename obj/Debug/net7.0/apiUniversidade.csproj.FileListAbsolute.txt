@@ -160,3 +160,4 @@ C:\Users\20191034010037\APIUNIVERSIDADE\obj\Debug\net7.0\scopedcss\bundle\apiUni
 C:\Users\20191034010037\APIUNIVERSIDADE\obj\Debug\net7.0\apiUniversidade.csproj.CopyComplete
 C:\Users\20191034010037\APIUNIVERSIDADE\obj\Debug\net7.0\apiUniversidade.genruntimeconfig.cache
 C:\Users\20191034010037\APIUNIVERSIDADE\obj\Debug\net7.0\ref\apiUniversidade.dll
+C:\Users\20191034010037\APIUNIVERSIDADE\obj\Debug\net7.0\apiUniversidade.sourcelink.json
