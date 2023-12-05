@@ -167,3 +167,11 @@ C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\Microsoft.AspNetCore.Id
 C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll

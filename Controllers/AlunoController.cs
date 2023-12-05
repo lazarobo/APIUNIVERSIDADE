@@ -15,7 +15,7 @@ namespace apiUniversidade.Controllers
     {
          private readonly ILogger<AlunoController> _logger;
         private readonly apiUniversidadeContext _context;
-
+        
         public AlunoController(ILogger<AlunoController> logger, apiUniversidadeContext context)
         {
             _logger = logger;

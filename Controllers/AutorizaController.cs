@@ -1,6 +1,9 @@
 using System;
 using System.Collections.Generic;
+using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
+using System.Security.Claims;
+using System.Text;
 using System.Threading.Tasks;
 using APIUNIVERSIDADE.DTO;
 using Microsoft.AspNetCore.Http.HttpResults;
@@ -56,6 +59,18 @@ namespace APIUNIVERSIDADE.Controllers
                         return BadRequest(ModelState);
                 }
             }
+        
+        private usuarioToken GeraToken(UsuarioDTO userInfo){
+            var claims = new[]{
+                new Claim(JwtRegisteredClaimNames.UniqueName,userInfo.Email),
+                new Claim("IFRN", "tecInfo."),
+                new Claim(Microsoft.IdentityModel.JsonWebTokens.JwtRegisteredClaimNames.Jti,Guid.NewGuid().ToString())
+            };
+        var key = new SymetricSecurityKey(
+            Encoding.UTF8.GetBytes(_configuration["Jwt:key"])
+        );
+
+        }
 
     }
 }
