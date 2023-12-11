@@ -9,6 +9,7 @@ using APIUNIVERSIDADE.DTO;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
 
 namespace APIUNIVERSIDADE.Controllers
 {
@@ -66,10 +67,29 @@ namespace APIUNIVERSIDADE.Controllers
                 new Claim("IFRN", "tecInfo."),
                 new Claim(Microsoft.IdentityModel.JsonWebTokens.JwtRegisteredClaimNames.Jti,Guid.NewGuid().ToString())
             };
-        var key = new SymetricSecurityKey(
+        var key = new SymmetricSecurityKey(
             Encoding.UTF8.GetBytes(_configuration["Jwt:key"])
         );
 
+        var credentials = new SigningCredentials(key,SecurityAlgorithms.HmacSha256);
+
+        var expiracao = _configuration["TokenConfiguration:ExpireHours"];
+        var expiration = DateTime.UtcNow.AddHours(double.Parse(expiracao));
+
+        JwtSecurityToken token = new JwtSecurityToken(
+            issuer: _configuration["TokenConfiguration:Issuer"],
+            audience: _configuration["TokenConfiguration:Audience"],
+            claims: claims,
+            expires: expiration,
+            signingCredentials: credentials
+        );
+
+        return new usuarioToken(){
+            Athenticated = true,
+            Expiration = expiration,
+            Token = new JwtSecurityTokenHandler().WriteToken(token),
+            Message = "JWT Ok."
+        };
         }
 
     }
