@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\20191034010037\\APIUNIVERSIDADE\\apiUniversidade.csproj": {}
+    "c:\\Users\\20191034010037\\APIUNIVERSIDADE\\apiUniversidade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\20191034010037\\APIUNIVERSIDADE\\apiUniversidade.csproj": {
+    "c:\\Users\\20191034010037\\APIUNIVERSIDADE\\apiUniversidade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20191034010037\\APIUNIVERSIDADE\\apiUniversidade.csproj",
+        "projectUniqueName": "c:\\Users\\20191034010037\\APIUNIVERSIDADE\\apiUniversidade.csproj",
         "projectName": "apiUniversidade",
-        "projectPath": "C:\\Users\\20191034010037\\APIUNIVERSIDADE\\apiUniversidade.csproj",
+        "projectPath": "c:\\Users\\20191034010037\\APIUNIVERSIDADE\\apiUniversidade.csproj",
         "packagesPath": "C:\\Users\\20191034010037\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20191034010037\\APIUNIVERSIDADE\\obj\\",
+        "outputPath": "c:\\Users\\20191034010037\\APIUNIVERSIDADE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\20191034010037\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,6 +57,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.9, )"
+            },
+            "Microsoft.aspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.1.0, )"
             },
             "Npgsql.EntityFrameWorkCore.PostgreSQL": {
               "target": "Package",
