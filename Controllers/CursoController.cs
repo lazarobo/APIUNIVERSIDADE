@@ -14,6 +14,7 @@ namespace apiUniversidade.Controllers
     [ApiController]
     [Route("[controller]")]
 
+    
     public class CursoController : ControllerBase
     {
         private readonly ILogger<CursoController> _logger;
