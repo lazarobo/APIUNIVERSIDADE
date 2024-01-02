@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PxC0U45RCl8rJjBk+0z8f/5hFk24HsopzYp//5PIed4//P/i2doJkuTanAylxmh57P6/ceW1EIt4aBxuPm2+Pw==",
+  "dgSpecHash": "Dtw6KpdXISyYV/X+xRTfRX8UPZKM2ugtqVwucjiYgLXa1zsbAwFznvl5MswrpV7DiitMPtMm2koLpgnJi6SoLw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\20191034010037\\APIUNIVERSIDADE\\apiUniversidade.csproj",
+  "projectFilePath": "C:\\Users\\20191034010037\\APIUNIVERSIDADE\\apiUniversidade.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\20191034010037\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\20191034010037\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.14\\microsoft.aspnetcore.authentication.jwtbearer.7.0.14.nupkg.sha512",

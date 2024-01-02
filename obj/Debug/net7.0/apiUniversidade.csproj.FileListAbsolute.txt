@@ -175,3 +175,4 @@ C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\Microsoft.IdentityModel
 C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\20191034010037\APIUNIVERSIDADE\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll

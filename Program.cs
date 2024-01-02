@@ -7,26 +7,22 @@ using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 
+//Add DbContext to acess PostgreeSQL
 var connectionString = builder.Configuration.GetConnectionString("PostgreSQL");
 builder.Services.AddDbContext<apiUniversidadeContext>(options => options.UseNpgsql(connectionString));
 
 // Add services to the container.
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddIdentity<IdentityUser,IdentityRole>()
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
     .AddEntityFrameworkStores<apiUniversidadeContext>()
     .AddDefaultTokenProviders();
-
-builder.Services.AddApiVersioning(options =>
-{
-    options.AssumeDefaultVersionWhenUnspecified = true;
-    options.DefaultApiVersion = new Microsoft.AspNetCore.Mvc.ApiVersion(1,0);
-    options.ReportApiVersions = true;
-});
+    
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
@@ -34,14 +30,12 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateIssuer = true,
             ValidateAudience = true,
             ValidateLifetime = true,
-            ValidAudience = builder.Configuration["TokenConfiguratiom:Audience"],
+            ValidAudience = builder.Configuration["TokenConfiguration:Audience"],
             ValidIssuer = builder.Configuration["TokenConfiguration:Issuer"],
             ValidateIssuerSigningKey = true,
             IssuerSigningKey = new SymmetricSecurityKey(
-                Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"])
-            )
-        }
-    );
+                Encoding.UTF8.GetBytes(builder.Configuration["Jwt:key"]))
+        });
 
 var app = builder.Build();
 
